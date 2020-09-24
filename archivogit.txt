@@ -1,3 +1,2 @@
 Archivo a agregar en el staging area.
 Modificación para el archivo en el branch primerrama.
-Nuevo cambio para hacer merge hacia el branch master.
